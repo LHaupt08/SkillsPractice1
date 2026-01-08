@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+
+html {
+    background-color:#FBFBFB;
+}
+
+h1, h2, h3, h4, h5, h6, .headingtext {
+
+    font-family: "Noto Sans", sans-serif;
+
+}
+
+p, .paratext {
+
+    font-family: "Quicksand", sans-serif;
+
+}
