@@ -1,7 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
 
-html {
+html, .maincolor {
     background-color:#FBFBFB;
+    color:black;
+}
+
+.subcolorone {
+    background-color:#004196;
+    color:white;
+}
+
+.subcolor2 {
+    background-color:#CDE3FF;
+    color:#0C1639;
 }
 
 h1, h2, h3, h4, h5, h6, .headingtext {
